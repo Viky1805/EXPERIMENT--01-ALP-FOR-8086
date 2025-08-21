@@ -1,4 +1,4 @@
-# EXPERIMENT 01 Fundamental Arithmetic And Logical Operations For 8086
+![WhatsApp Image 2025-08-21 at 09 48 25_dec795b4](https://github.com/user-attachments/assets/37c281cd-1688-4c63-b0fa-b2655a490a3d)# EXPERIMENT 01 Fundamental Arithmetic And Logical Operations For 8086
 
 ### Name : VIGNESH S
 
@@ -152,7 +152,9 @@ RET
 
 ## Output
 
-<img width="1919" height="1107" alt="image" src="https://github.com/user-attachments/assets/c29bcb71-39ba-42d7-81f0-cd0a5ab60603" />
+<img width="1919" height="1107" alt="image" src="https://github.com/user-attachments/assets/644a8aa6-a814-4cc1-a4e1-c745181a491d" />
+
+
 
 ## Result :
 
