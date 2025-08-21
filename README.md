@@ -113,9 +113,46 @@ ret
 
 <img width="1919" height="1107" alt="image" src="https://github.com/user-attachments/assets/c92ad8f6-56fe-4e8c-8032-4ca9866bd115" />
 
+## Programs for logical operations
 
-## Output  
+```
+org 100h        
 
+
+MOV [4000H],0FABH
+MOV [4002H],1122H
+MOV AX,[4000H]
+MOV BX,[4002H]
+AND AX,BX
+MOV [4040H],AX
+
+MOV [4010H],334BH
+MOV [4012H],1122H
+MOV AX,[4010H]
+MOV BX,[4012H]
+OR AX,BX
+MOV [4042H],AX 
+
+MOV [4020H],3345H
+MOV [4022H],8822H
+MOV AX,[4020H]  
+MOV BX,[4022H]
+XOR AX,BX
+MOV [4044H],AX
+
+MOV [4038H],3345H
+MOV [4031H],8822H
+MOV AX,[4038H]  
+MOV BX,[4031H]
+NOT AX
+MOV [4046H],AX
+     
+RET
+```
+
+## Output
+
+<img width="1919" height="1107" alt="image" src="https://github.com/user-attachments/assets/c29bcb71-39ba-42d7-81f0-cd0a5ab60603" />
 
 ## Result :
  
