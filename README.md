@@ -10,7 +10,9 @@
 
 
 
-## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
+## Aim: 
+
+To Write and execute ALP on fundamental arithmetic and logical operations
 
 ## Components required: 8086  emulator 
 
@@ -155,6 +157,10 @@ RET
 <img width="1919" height="1107" alt="image" src="https://github.com/user-attachments/assets/c29bcb71-39ba-42d7-81f0-cd0a5ab60603" />
 
 ## Result :
+
+Thus fundamental arithmetic and logical operations using 8086 is executed successfully.
+
+
  
 
 
